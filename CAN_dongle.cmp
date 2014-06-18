@@ -1,0 +1,542 @@
+Cmp-Mod V01 Created by Cvpcb (2014-06-16 BZR 4947)-product   date = Wed 18 Jun 2014 03:38:05 PM CEST
+
+BeginCmp
+TimeStamp = /53A0C9F7;
+Reference = C1;
+ValeurCmp = 100n;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0CE38;
+Reference = C2;
+ValeurCmp = 100n;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0D6DD;
+Reference = C3;
+ValeurCmp = 100n;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0D6EF;
+Reference = C4;
+ValeurCmp = 100n;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /50CF8864;
+Reference = C5;
+ValeurCmp = 22p;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /50CF886F;
+Reference = C6;
+ValeurCmp = 22p;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /50CF80D8;
+Reference = C7;
+ValeurCmp = 100n;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /50CF80DE;
+Reference = C8;
+ValeurCmp = 100n;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /50CF80E4;
+Reference = C9;
+ValeurCmp = 100n;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /50F70D11;
+Reference = C10;
+ValeurCmp = 100n;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /50CF80EA;
+Reference = C11;
+ValeurCmp = 100n;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0D742;
+Reference = C12;
+ValeurCmp = 100n;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0D754;
+Reference = C13;
+ValeurCmp = 100n;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0D78A;
+Reference = C14;
+ValeurCmp = 100n;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0D79C;
+Reference = C15;
+ValeurCmp = 100n;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /50F47816;
+Reference = C16;
+ValeurCmp = 100n;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /50F47BF7;
+Reference = C17;
+ValeurCmp = 100n;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D4E635;
+Reference = C18;
+ValeurCmp = 470p;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D4E641;
+Reference = C19;
+ValeurCmp = 470u;
+IdModule  = z_newlib:CAPPR_P15D40;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D4E647;
+Reference = C20;
+ValeurCmp = 100n;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A115F3;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = z_newlib:C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A1160A;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = z_newlib:C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /50F5B43A;
+Reference = D3;
+ValeurCmp = SS24;
+IdModule  = z_newlib:SMB;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D4E64D;
+Reference = D4;
+ValeurCmp = SS24;
+IdModule  = z_newlib:SMB;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0ED1C;
+Reference = J1;
+ValeurCmp = P0-P3;
+IdModule  = z_pinHeaders:AK306_LE-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D26186;
+Reference = J2;
+ValeurCmp = JTAG;
+IdModule  = z_pinHeaders:HEADER2x10V;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D21F2F;
+Reference = J3;
+ValeurCmp = USB-MINI-A;
+IdModule  = z_newlib:USB-A-MINI;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0A366;
+Reference = J4;
+ValeurCmp = 12V;
+IdModule  = z_pinHeaders:AK306_LE-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0A360;
+Reference = J5;
+ValeurCmp = 5V;
+IdModule  = z_pinHeaders:AK306_LE-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0A35A;
+Reference = J6;
+ValeurCmp = GND;
+IdModule  = z_pinHeaders:AK306_LE-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0ED29;
+Reference = J7;
+ValeurCmp = P4-P7;
+IdModule  = z_pinHeaders:AK306_LE-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0AAAC;
+Reference = J8;
+ValeurCmp = CAN;
+IdModule  = z_pinHeaders:AK306_LE-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0B56C;
+Reference = J9;
+ValeurCmp = TERM;
+IdModule  = z_pinHeaders:HEADER1x2V;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0C460;
+Reference = J10;
+ValeurCmp = K-LINE;
+IdModule  = z_pinHeaders:AK306_LE-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D2859A;
+Reference = J11;
+ValeurCmp = HEADER2X10;
+IdModule  = z_pinHeaders:HEADER2x10V;
+EndCmp
+
+BeginCmp
+TimeStamp = /50CF86A5;
+Reference = L1;
+ValeurCmp = ferrite bead;
+IdModule  = z_newlib:R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D4E61D;
+Reference = L2;
+ValeurCmp = 200u;
+IdModule  = z_newlib:INDRD_P30D70;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A1DEA9;
+Reference = Q1;
+ValeurCmp = IRF7313;
+IdModule  = z_newlib:SO8_L;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A1DFEC;
+Reference = Q2;
+ValeurCmp = IRF7313;
+IdModule  = z_newlib:SO8_L;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0BC1B;
+Reference = Q3;
+ValeurCmp = 2N7002;
+IdModule  = z_newlib:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0BC3D;
+Reference = Q4;
+ValeurCmp = 2N7002;
+IdModule  = z_newlib:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0DB01;
+Reference = R1;
+ValeurCmp = 0R;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0C9E8;
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D2701B;
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0CE56;
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0CE47;
+Reference = R5;
+ValeurCmp = 27k;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D25EC3;
+Reference = R6;
+ValeurCmp = 1k5;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0D805;
+Reference = R7;
+ValeurCmp = 0R;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0D6D7;
+Reference = R8;
+ValeurCmp = 10k;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0D6FB;
+Reference = R9;
+ValeurCmp = 10k;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0D6F5;
+Reference = R10;
+ValeurCmp = 27k;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0DDB5;
+Reference = R11;
+ValeurCmp = 0R;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0D73C;
+Reference = R12;
+ValeurCmp = 10k;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0F477;
+Reference = R13;
+ValeurCmp = 10k;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A11550;
+Reference = R14;
+ValeurCmp = 10k;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0D760;
+Reference = R15;
+ValeurCmp = 10k;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0D75A;
+Reference = R16;
+ValeurCmp = 27k;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A11556;
+Reference = R17;
+ValeurCmp = 10k;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0E1DB;
+Reference = R18;
+ValeurCmp = 0R;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0D784;
+Reference = R19;
+ValeurCmp = 10k;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A1155C;
+Reference = R20;
+ValeurCmp = 10k;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0D7A8;
+Reference = R21;
+ValeurCmp = 10k;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0D7A2;
+Reference = R22;
+ValeurCmp = 27k;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0BE36;
+Reference = R23;
+ValeurCmp = 10k;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0BE3C;
+Reference = R24;
+ValeurCmp = 10k;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D4E623;
+Reference = R25;
+ValeurCmp = 12k;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A225E7;
+Reference = R26;
+ValeurCmp = 10k;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0C6CA;
+Reference = R27;
+ValeurCmp = 10k;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D4E629;
+Reference = R28;
+ValeurCmp = 3k9;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A20619;
+Reference = R29;
+ValeurCmp = 10k;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0AF80;
+Reference = R30;
+ValeurCmp = 120R;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A0C973;
+Reference = U1;
+ValeurCmp = LM324;
+IdModule  = z_newlib:SO14;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A1E60F;
+Reference = U2;
+ValeurCmp = STM32F103CBT6;
+IdModule  = z_newlib:LQFP48_L;
+EndCmp
+
+BeginCmp
+TimeStamp = /50F474DB;
+Reference = U3;
+ValeurCmp = LM1117;
+IdModule  = z_newlib:SOT223;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D4E611;
+Reference = U4;
+ValeurCmp = MC34063;
+IdModule  = z_newlib:SO8_L;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A20151;
+Reference = U5;
+ValeurCmp = MCP2551;
+IdModule  = z_newlib:SO8_L;
+EndCmp
+
+BeginCmp
+TimeStamp = /50D50DE0;
+Reference = X1;
+ValeurCmp = XT324;
+IdModule  = z_newlib:XT324;
+EndCmp
+
+EndListe
