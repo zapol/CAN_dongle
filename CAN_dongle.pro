@@ -1,6 +1,6 @@
-update=Wed 18 Jun 2014 09:19:42 AM CEST
+update=Thu 31 Jul 2014 04:54:28 PM CEST
 version=1
-last_client=eeschema
+last_client=kicad
 [cvpcb]
 version=1
 NetIExt=net
@@ -43,8 +43,6 @@ LibName13=led
 LibName14=dip_sockets
 LibName15=pga_sockets
 LibName16=valves
-[general]
-version=1
 [eeschema]
 version=1
 PageLayoutDescrFile=
@@ -59,3 +57,5 @@ LabSize=60
 [eeschema/libraries]
 LibName1=z_newlib
 LibName2=z_power
+[general]
+version=1

@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-06-16 BZR 4947)-product   date = Thu 31 Jul 2014 11:44:30 AM CEST
+Cmp-Mod V01 Created by Cvpcb (2014-06-16 BZR 4947)-product   date = Thu 31 Jul 2014 04:19:30 PM CEST
 
 BeginCmp
 TimeStamp = /53A0C9F7;
@@ -292,6 +292,13 @@ TimeStamp = /53DC40AE;
 Reference = J17;
 ValeurCmp = LCD_MNTHOLE;
 IdModule  = z_newlib:MountHole_D4P6;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DC1641;
+Reference = J18;
+ValeurCmp = COMPR;
+IdModule  = z_pinHeaders:AK306_LE-3;
 EndCmp
 
 BeginCmp
@@ -589,45 +596,52 @@ IdModule  = z_newlib:R0805;
 EndCmp
 
 BeginCmp
+TimeStamp = /53DAE81F;
+Reference = R34;
+ValeurCmp = 27k;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DAE5C8;
+Reference = R35;
+ValeurCmp = 3k9;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DAE726;
+Reference = R36;
+ValeurCmp = 12k;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DAE7A4;
+Reference = R37;
+ValeurCmp = 27k;
+IdModule  = z_newlib:C0805;
+EndCmp
+
+BeginCmp
 TimeStamp = /53DDFD44;
 Reference = SW1;
-ValeurCmp = Microswitch;
-IdModule  = ;
+ValeurCmp = SWITCH_DUALPINS;
+IdModule  = z_newlib:TACT_SWITCH_TH_5MM;
 EndCmp
 
 BeginCmp
-TimeStamp = /53DE02F8;
+TimeStamp = /53DA4A0A;
 Reference = SW2;
-ValeurCmp = Microswitch;
-IdModule  = ;
+ValeurCmp = SWITCH_DUALPINS;
+IdModule  = z_newlib:TACT_SWITCH_TH_5MM;
 EndCmp
 
 BeginCmp
-TimeStamp = /53DE0550;
+TimeStamp = /53DA4A8D;
 Reference = SW3;
-ValeurCmp = Microswitch;
-IdModule  = ;
-EndCmp
-
-BeginCmp
-TimeStamp = /53DE0556;
-Reference = SW4;
-ValeurCmp = Microswitch;
-IdModule  = ;
-EndCmp
-
-BeginCmp
-TimeStamp = /53DE05D3;
-Reference = SW5;
-ValeurCmp = Microswitch;
-IdModule  = ;
-EndCmp
-
-BeginCmp
-TimeStamp = /53DE05D9;
-Reference = SW6;
-ValeurCmp = Microswitch;
-IdModule  = ;
+ValeurCmp = SWITCH_DUALPINS;
+IdModule  = z_newlib:TACT_SWITCH_TH_5MM;
 EndCmp
 
 BeginCmp
