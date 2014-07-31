@@ -1,6 +1,6 @@
-update=17/06/2014 22:30:48
+update=Wed 18 Jun 2014 09:19:42 AM CEST
 version=1
-last_client=kicad
+last_client=eeschema
 [cvpcb]
 version=1
 NetIExt=net
@@ -43,16 +43,19 @@ LibName13=led
 LibName14=dip_sockets
 LibName15=pga_sockets
 LibName16=valves
+[general]
+version=1
 [eeschema]
 version=1
-LibDir=D:/praca/kicad_projects/KicadLibs
+PageLayoutDescrFile=
+SubpartIdSeparator=0
+SubpartFirstId=65
+LibDir=../KicadLibs
 NetFmtName=
 RptD_X=0
 RptD_Y=100
 RptLab=1
 LabSize=60
 [eeschema/libraries]
-LibName1=newlib
-LibName2=power
-[general]
-version=1
+LibName1=z_newlib
+LibName2=z_power
