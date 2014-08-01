@@ -660,21 +660,21 @@ Text Label 4950 950  2    60   ~ 0
 TDO
 Text Notes 2850 3750 0    60   ~ 0
 TODO:\n- Przyciski (dzielniki R)\n- Obudowa microswitcha
-Text Label 2400 1550 0    60   ~ 0
-P8
-Text Label 2400 1650 0    60   ~ 0
-P9
 Text Label 4800 1750 2    60   ~ 0
-P10
+P8
 Text Label 4800 1850 2    60   ~ 0
-P11
+P9
 Text Label 4800 1950 2    60   ~ 0
-P12
+P10
 Text Label 4800 2050 2    60   ~ 0
-P13
+P11
 Text Label 4800 2150 2    60   ~ 0
-P14
+P12
 Text Label 4800 2250 2    60   ~ 0
+P13
+Text Label 2400 1550 0    60   ~ 0
+P14
+Text Label 2400 1650 0    60   ~ 0
 P15
 Text Label 4800 1350 2    60   ~ 0
 RxD
@@ -2225,10 +2225,6 @@ Wire Wire Line
 Wire Wire Line
 	4500 1350 4800 1350
 Wire Wire Line
-	2700 1550 2400 1550
-Wire Wire Line
-	2700 1650 2400 1650
-Wire Wire Line
 	4500 1750 4800 1750
 Wire Wire Line
 	4500 1850 4800 1850
@@ -2240,6 +2236,10 @@ Wire Wire Line
 	4500 2150 4800 2150
 Wire Wire Line
 	4500 2250 4800 2250
+Wire Wire Line
+	2700 1550 2400 1550
+Wire Wire Line
+	2700 1650 2400 1650
 Wire Wire Line
 	4500 950  4950 950 
 Wire Wire Line
